@@ -11,5 +11,6 @@ Temel tablolar:
 - Odemeler
 - AskidaBagislar
 - AskidaKullanimlar
+- Kuponlar
 
 İlk aşamada tablo yapıları ve ilişkiler planlanmaktadır.
