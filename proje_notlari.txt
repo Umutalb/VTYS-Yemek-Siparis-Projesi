@@ -1,0 +1,15 @@
+Proje başlangıç notları
+
+Temel tablolar:
+- Musteriler
+- Restoranlar
+- Kuryeler
+- Kategoriler
+- Urunler
+- Siparisler
+- SiparisDetaylari
+- Odemeler
+- AskidaBagislar
+- AskidaKullanimlar
+
+İlk aşamada tablo yapıları ve ilişkiler planlanmaktadır.
