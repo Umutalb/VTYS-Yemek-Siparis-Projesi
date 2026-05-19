@@ -655,3 +655,13 @@ VALUES
 (8, 87, 610, '2026-05-18 12:05:00'),
 
 (20, 99, 500, '2026-05-20 15:30:00');
+
+-- Askıda kullanım tutarlarını,
+-- ilgili siparişlerin güncel toplam tutarlarıyla eşitler.
+
+UPDATE AskidaKullanimlar
+SET KullanilanTutar = (
+    SELECT ToplamTutar
+    FROM Siparisler
+    WHERE Siparisler.SiparisId = AskidaKullanimlar.SiparisId
+)
