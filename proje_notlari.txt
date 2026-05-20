@@ -1,16 +1,15 @@
-Proje başlangıç notları
+Proje geliştirme notları
 
-Temel tablolar:
-- Musteriler
-- Restoranlar
-- Kuryeler
-- Kategoriler
-- Urunler
-- Siparisler
-- SiparisDetaylari
-- Odemeler
-- AskidaBagislar
-- AskidaKullanimlar
-- Kuponlar
+Tamamlanan yapılar:
+- Veritabanı şeması oluşturuldu
+- PK / FK ilişkileri kuruldu
+- Mock data eklendi
+- Askıda yemek sistemi tasarlandı
+- JOIN, GROUP BY, HAVING ve SUBQUERY sorguları yazıldı
+- ER diyagramı oluşturuldu
 
-İlk aşamada tablo yapıları ve ilişkiler planlanmaktadır.
+Sıradaki aşamalar:
+- View yapıları
+- Trigger yapıları
+- Index optimizasyonları
+- AI kullanım raporu
