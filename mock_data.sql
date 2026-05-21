@@ -665,3 +665,15 @@ SET KullanilanTutar = (
     FROM Siparisler
     WHERE Siparisler.SiparisId = AskidaKullanimlar.SiparisId
 )
+
+
+-- Restoranların mevcut toplam ciroları güncellendi
+
+UPDATE R
+SET R.ToplamCiro = ISNULL((
+    SELECT SUM(S.ToplamTutar)
+    FROM Siparisler S
+    WHERE S.RestoranId = R.RestoranId
+      AND S.SiparisDurumu = 'Teslim Edildi'
+), 0)
+FROM Restoranlar R;
