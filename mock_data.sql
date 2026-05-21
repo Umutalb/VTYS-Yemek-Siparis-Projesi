@@ -587,25 +587,25 @@ INSERT INTO AskidaBagislar
 (MusteriId, BagisTutari, AnonimMi, BagisTarihi, Aciklama)
 VALUES
 
-(3, 250, 0, '2026-05-01 18:30:00', 'Askıda yemek desteği'),
+(3, 900, 0, '2026-05-01 18:30:00', 'Askıda yemek desteği'),
 
-(4, 300, 1, '2026-05-03 14:10:00', 'Anonim bağış'),
+(4, 1000, 1, '2026-05-03 14:10:00', 'Anonim bağış'),
 
-(7, 200, 0, '2026-05-05 19:45:00', 'İhtiyaç sahiplerine destek'),
+(7, 300, 0, '2026-05-05 19:45:00', 'İhtiyaç sahiplerine destek'),
 
-(9, 400, 1, '2026-05-07 16:20:00', 'Askıda yemek bağışı'),
+(9, 800, 1, '2026-05-07 16:20:00', 'Askıda yemek bağışı'),
 
-(10, 150, 0, '2026-05-09 13:35:00', 'Küçük bir destek'),
+(10, 500, 0, '2026-05-09 13:35:00', 'Küçük bir destek'),
 
-(11, 500, 0, '2026-05-11 20:00:00', 'Sosyal destek bağışı'),
+(11, 700, 0, '2026-05-11 20:00:00', 'Sosyal destek bağışı'),
 
-(12, 350, 1, '2026-05-13 15:25:00', 'Anonim askıda yemek desteği'),
+(12, 1350, 1, '2026-05-13 15:25:00', 'Anonim askıda yemek desteği'),
 
-(14, 220, 0, '2026-05-15 12:40:00', 'Yemek desteği'),
+(14, 1220, 0, '2026-05-15 12:40:00', 'Yemek desteği'),
 
-(15, 450, 1, '2026-05-17 18:15:00', 'Askıda yemek katkısı'),
+(15, 200, 1, '2026-05-17 18:15:00', 'Askıda yemek katkısı'),
 
-(17, 280, 0, '2026-05-19 17:50:00', 'İhtiyaç sahipleri için bağış');
+(17, 855, 0, '2026-05-19 17:50:00', 'İhtiyaç sahipleri için bağış');
 
 -- AskidaKullanimlar Mock Data
 -- İhtiyaç sahibi müşterilerin askıda yemek kullanım kayıtları
