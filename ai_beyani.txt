@@ -1,0 +1,17 @@
+Bu veritabanı projesinin geliştirme sürecinde ChatGPT yapay zeka aracından bir asistan olarak faydalandım.
+
+Yapay zekadan özellikle şu noktalarda destek aldım:
+
+Yazdığım SQL sorgularında gözden kaçırdığım syntax hatalarını tespit ettim
+
+Tablolarımı test edebilmek için tasarladığım mock verileri üretirken fikir aldım
+
+JOIN, GROUP BY, HAVING, SUBQUERY, VIEW, TRIGGER ve INDEX gibi yapıların çalışma mantığını daha iyi kavradım ve öğrendim
+
+Bazı karmaşık SQL sorgularını kurgularken ve test ederken takıldığım noktalarda yardım aldım
+
+Veritabanı tasarımında ve tablo ilişkilerinde aldığım kararların doğruluğunu kesinleştirdim
+
+Böylelikle projedeki tüm tablo yapıları iş kuralları ve sistemin genel çalışma mantığını planladım ve düzenledim
+
+Projeme eklediğim ve kullandığım tüm SQL kodlarının ne işe yaradığını arkaplanda nasıl çalıştığını net bir şekilde biliyorum. Projemin her satırına hakimim ve savunmasını rahatlıkla yapabilecek bilgi düzeyine sahibim.
